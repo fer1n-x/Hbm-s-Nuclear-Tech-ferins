@@ -5123,7 +5123,7 @@ entity.entity_mob_nuclear_creeper.name=Ядерный крипер
 entity.entity_mob_tainted_creeper.name=Заражённый порчей крипер
 entity.entity_mob_phosgene_creeper.name=Фосгеновый крипер
 entity.entity_mob_mask_man.name=Маскмен
-entity.entity_mob_hunter_chopper.name=БОСС, МАТЬ ЕГО, ВЕРТОЛЁТ
+entity.entity_mob_hunter_chopper.name=Вертолёт-охотник
 entity.entity_cyber_crab.name=Киберкраб
 entity.entity_tesla_crab.name=Теслакраб
 entity.entity_taint_crab.name=Заражённый порчей теслакраб
@@ -5188,12 +5188,12 @@ item.gear_large.name=Большая шестерня
 item.gear_large_steel.name=Большая стальная шестерня
 
 item.combine_scrap.name=Металлолом Альянса
-item.chopper_head.name=Кабина босса, мать его вертолёта
+item.chopper_head.name=Кабина Вертолета-охотника
 item.chopper_gun.name=Огневая установка
-item.chopper_torso.name=Корпус босса, мать его вертолёта
-item.chopper_tail.name=Хвост босса, мать его вертолёта
-item.chopper_wing.name=Крыло босса, мать его вертолёта
-item.chopper_blades.name=Лопасти босса, мать его вертолёта
+item.chopper_torso.name=Корпус Вертолёта-охотника
+item.chopper_tail.name=Хвост Вертолёта-охотника
+item.chopper_wing.name=Крыло Вертолета-охотника
+item.chopper_blades.name=Лопасти Вертолёта-охотника
 
 item.igniter.name=Зажигатель
 item.igniter.desc=(Щёлкните правой кнопкой мыши по Прототипу)$Это зеленая металлическая ручка с $ярко-красной кнопкой и маленькой крышкой.$Внизу выгравированы инициалы N.E.$. Кем бы ни был N.E., у него был отличный вкус в оттенках зеленого.
